@@ -1,0 +1,7 @@
+matplotlib==3.5.3
+notebook==6.4.12
+numpy==1.23.2
+pymor==2022.1.0
+rise==5.7.1
+scipy==1.9.0
+slycot==0.5.0
