@@ -96,7 +96,7 @@ def trajectories_plot(T, U, Y, Y_dmd=None):
 
     # Output trajectory
     ax = fig.add_subplot(1, 2, 2)
-    title = 'Testing Output' if Y_dmd is None else 'Testing Output'
+    title = 'Training Output' if Y_dmd is None else 'Testing Output'
     ax.set_title(title)
     ax.set(xlim=[np.min(T), np.max(T)])
     ax.set(xlabel='Time (s)')
