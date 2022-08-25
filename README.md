@@ -4,7 +4,7 @@
 
 #### pyMOR School 2022
 
-#### August 22-26, 2022
+#### August 25, 2022
 
 ## Installation
 A python environment is required with at least **Python 3.10**.
@@ -21,5 +21,6 @@ The notebook can then be accessed by executing:
    jupyter notebook
 ```
 
-
-
+<!-- CONTACT -->
+## Contact
+Jonas Nicodemus - jonas.nicodemus@simtech.uni-stuttgart.de
